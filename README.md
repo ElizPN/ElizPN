@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ElizPN
+- 👋 Hi, I’m Liza
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning TS, JS, React, Redux, MUI.
 - 💞️ I’m looking to collaborate on ...
