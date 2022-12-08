@@ -7,7 +7,7 @@
 
 ### Skills
 
-[![TypeScript](https://img.shields.io/badge/typescript-TypeScript-blue)](https://www.typescriptlang.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-blue)](https://www.typescriptlang.org/)
 
 
 
