@@ -8,6 +8,7 @@
 ### Skills
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-blue?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-%23FFCE00?logo=javascript&logoColor=black)](https://www.javascript.com/)
 
 
 
