@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Liza
-- 👀 I’m interested in web development.
-- 🌱 I’m currently learning TS, JS, React, Redux, MUI.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👩🏻‍💻 I am Frontend developer with 2 years experience and continue learning new things everyday.
+- 🤓 I like to understand things I don't understand.
+- 🌏 I am always ready to help my colleagues and friends.
+
 
 <!---
 ElizPN/ElizPN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
