@@ -7,7 +7,7 @@
 
 ### Skills
 
-[![Java](https://img.shields.io/static/v1?label=&message=Java&color=C78530&logo=java&logoColor=FFFFFF)](https://www.java.com/)
+[![TypeScript](https://img.shields.io/badge/typescript-TypeScript-blue)](https://www.typescriptlang.org/)
 
 
 
