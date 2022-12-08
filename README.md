@@ -1,10 +1,14 @@
-- 👋 Hi, I’m Liza
+### Hi there 👋 Hi, I’m Liza
+
+
 - 👩🏻‍💻 I am Frontend developer with 2 years experience and continue learning new things everyday.
 - 🤓 I like to understand things I don't understand.
 - 🌏 I am always ready to help my colleagues and friends.
 
+### Skills
 
-<!---
-ElizPN/ElizPN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Java](https://img.shields.io/static/v1?label=&message=Java&color=C78530&logo=java&logoColor=FFFFFF)](https://www.java.com/)
+
+
+
+
