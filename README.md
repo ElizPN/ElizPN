@@ -15,6 +15,8 @@
 [![HTML](https://img.shields.io/badge/-HTML-%23E34F26?logo=html5&logoColor=white)](https://html.com/)
 [![Material UI](https://img.shields.io/badge/-Material%20UI-%23007FFF?logo=mui&logoColor=white)](https://mui.com/)
 [![Contentful](https://img.shields.io/badge/-Contentful-%232478CC?logo=contentful&logoColor=white)](https://www.contentful.com/)
+[![Vue.js](https://img.shields.io/badge/-Vue.js-%234FC08D?logo=vue.js&logoColor=black)](https://vuejs.org/)
+
 
 
 
