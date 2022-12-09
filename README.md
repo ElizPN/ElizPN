@@ -26,7 +26,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=ElizPN&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ElizPN)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
