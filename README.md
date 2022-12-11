@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m Liza
 
-<img src="./ReadmeImages/ArchitectureDiagram.png" title="Architecture Diagram">
+
 
 
 - 👩🏻‍💻 I am Frontend developer with 2 years experience and continue learning new things every day.
