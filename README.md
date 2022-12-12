@@ -1,4 +1,16 @@
-### 👋 Hi, I’m Liza
+## 👋 Hi, I’m Liza
+
+### There are some of my projects: 
+<div style="display:flex;flex-direction:row;">
+
+#### My Portfolio
+
+  <a href="https://github.com/ElizPN/Portfolio/"><img src="./about.png" alt="Portfolio" style="width:500px;height:300px;"></a>
+  
+#### Typical challenges in React
+
+  <a href="https://github.com/ElizPN/react-typical-challenges/"><img src="./ts-react-redux.jpeg" alt="TS-React-Redux" style="width:500px;height:280px;"></a>
+  </div>
 
 
 
