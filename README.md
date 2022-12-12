@@ -1,5 +1,9 @@
 ## 👋 Hi, I’m Liza
 
+- 👩🏻‍💻 I am Frontend developer with 2 years experience and continue learning new things every day.
+- 🤓 I like to learn new, unknown to me.
+- 🌏 I am always ready to help my colleagues and friends.
+
 ### There are some of my projects: 
 <div style="display:flex;flex-direction:row;">
 
@@ -12,12 +16,6 @@
 #### TodoLister
   <a href="https://github.com/ElizPN/todo-list/"><img src="./todo.png" alt="Todo" style="width:400px;height:310px;"></a>
   
-
-- 👩🏻‍💻 I am Frontend developer with 2 years experience and continue learning new things every day.
-- 🤓 I like to learn new, unknown to me.
-- 🌏 I am always ready to help my colleagues and friends.
-
-
 
 ### Skills
 
