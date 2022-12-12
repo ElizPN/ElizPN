@@ -4,16 +4,14 @@
 <div style="display:flex;flex-direction:row;">
 
 #### My Portfolio
-
   <a href="https://github.com/ElizPN/Portfolio/"><img src="./about.png" alt="Portfolio" style="width:500px;height:300px;"></a>
   
 #### Typical challenges in React
-
   <a href="https://github.com/ElizPN/react-typical-challenges/"><img src="./ts-react-redux.jpeg" alt="TS-React-Redux" style="width:500px;height:280px;"></a>
-  </div>
-
-
-
+  
+#### TodoLister
+  <a href="https://github.com/ElizPN/todo-list/"><img src="./todo.png" alt="Todo" style="width:400px;height:310px;"></a>
+  
 
 - 👩🏻‍💻 I am Frontend developer with 2 years experience and continue learning new things every day.
 - 🤓 I like to learn new, unknown to me.
