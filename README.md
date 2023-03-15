@@ -34,7 +34,7 @@
 [![Phaser 3](https://img.shields.io/badge/-Phaser%203-%23809c13?logo=phaser)](https://phaser.io/phaser3)
 
 
-### :fire: My Stats :
+### :fire: My Stats:
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ElizPN&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
