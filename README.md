@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Liza
 
-- 👩🏻‍💻 I am Frontend developer with 3 years experience and continue learning new things every day.
+- 👩🏻‍💻 I am Web developer with 3 years of experience and continue learning new things every day.
 - 🤓 I like to learn new, unknown to me.
 - 🌏 I am always ready to help my colleagues and friends.
 
