@@ -18,9 +18,6 @@
   
 
   
-#### TodoLister
-  <a href="https://github.com/ElizPN/todo-list/"><img src="./todo.png" alt="Todo" style="width:400px;height:310px;"></a>
-  
 
 ### Skills
 
