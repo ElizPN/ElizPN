@@ -8,8 +8,10 @@
 <div style="display:flex;flex-direction:row;">
 
  <a href="https://github.com/ElizPN/transaction-management-fullstack-level-2" alt="transaction-management-fullstack"> transaction-management-fullstack </a>
+ <a href="https://github.com/ElizPN/backend-tech-task" alt=""> back-end lookup service </a>
+ <a href="https://github.com/ElizPN/financial-instruments-table-" alt=""> financial-instruments-filtering </a>
 
-#### My Portfolio
+#### My Portfolio ( Need to be refreshed!)
   <a href="https://github.com/ElizPN/Portfolio/"><img src="./about.png" alt="Portfolio" style="width:500px;height:300px;"></a>
   
    #### Swedish Radio
