@@ -16,8 +16,7 @@
  ####
  <a href="https://github.com/ElizPN/financial-instruments-table-" alt=""> financial-instruments-filtering </a>
 
-#### My Portfolio ( Need to be refreshed!)
-  <a href="https://github.com/ElizPN/Portfolio/"><img src="./about.png" alt="Portfolio" style="width:500px;height:300px;"></a>
+
   
    #### Swedish Radio
   <a href="https://github.com/ElizPN/Swedish-radio"><img src="./sw-radio.png" alt="Swedish-radio" style="width:400px;height:310px;"></a>
