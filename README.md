@@ -18,10 +18,8 @@
 
 
   
-   #### Swedish Radio
-  <a href="https://github.com/ElizPN/Swedish-radio"><img src="./sw-radio.png" alt="Swedish-radio" style="width:400px;height:310px;"></a>
-  
-#### Typical challenges in React
+
+#### Typical challenges with React, Redux and unit testing
   <a href="https://github.com/ElizPN/react-typical-challenges/"><img src="./rtc.jpeg" alt="TS-React-Redux" style="width:400px;height:280px;"></a>
   
 
