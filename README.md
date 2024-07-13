@@ -19,7 +19,7 @@
 
   
 
-#### Typical challenges with React, Redux and unit testing
+#### My old personal blog about React, Redux and unit testing
   <a href="https://github.com/ElizPN/react-typical-challenges/"><img src="./rtc.jpeg" alt="TS-React-Redux" style="width:400px;height:280px;"></a>
   
 
