@@ -1,6 +1,7 @@
 ## 👋 Hi, I’m Liza
 
 - 👩🏻‍💻 I am Full Stack software engineer.
+- 👩‍💻 Currently in core team @anyfin
 - 🤓 I like to learn new, unknown to me.
 - 🌏 I am always ready to help my colleagues and friends.
 
