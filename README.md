@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Liza
 
-- 👩🏻‍💻 I am Web developer with 3 years of experience and continue learning new things every day.
+- 👩🏻‍💻 I am Full Stack software engineer.
 - 🤓 I like to learn new, unknown to me.
 - 🌏 I am always ready to help my colleagues and friends.
 
@@ -16,14 +16,6 @@
  ####
  <a href="https://github.com/ElizPN/financial-instruments-table-" alt=""> financial-instruments-filtering </a>
 
-
-  
-
-#### My old personal blog about React, Redux and unit testing
-  <a href="https://github.com/ElizPN/react-typical-challenges/"><img src="./rtc.jpeg" alt="TS-React-Redux" style="width:400px;height:280px;"></a>
-  
-
-  
 
 ### Skills
 
